@@ -1,4 +1,74 @@
-console.log("Main.js, yo!")
+// * undefined
+// let x;
+// console.log(x)
+
+// * Boolean
+// let x = true;
+// let y = false;
+
+// console.log(x, y)
+// if (!y) {
+//     console.log("This is true")
+// } else {
+//     console.log("This is false")
+// }
+
+// * Number
+// let number = '22';
+// console.log(typeof Number(number))
+
+// * String
+// let string = 'Today is Monday!'
+// if (string === 'Today is Monday!') {
+//     console.log("YAYAAA!!!!")
+// }
+// console.log(typeof string)
+
+// let array = []
+
+// let name = 'Dr. T',
+//     age = "wouldn't you like to know...",
+//     school = "NSS";
+
+// let object = {
+//     name,
+//     age,
+//     school
+// }
+
+// console.log(object.age)
+
+// let myFunction = () => {
+//     return 
+// }
+
+// function thatFunction() {
+//     return 
+// }
+
+// console.log(thatFunction)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
